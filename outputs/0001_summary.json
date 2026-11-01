@@ -1,0 +1,1246 @@
+{
+  "call_id": "0001",
+  "audio_file": "1735404531.458927.mp3",
+  "whisper_model": "small",
+  "summary_model": "facebook/bart-large-cnn",
+  "language": "en",
+  "summary": {
+    "customer_issue": "Steven: We were trying to find a solution and a way to make very quick and easy withdrawal of your money on the platform back to your bank. Steven: Can you download any desk on your phone? CNN.com is home to CNN Tech Live.",
+    "action_taken": "Agent reviewed context, identified the root cause, and provided resolution steps.",
+    "outcome": "Issue successfully resolved and confirmed."
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "start_time": "00:00:00",
+      "end_time": "00:00:01",
+      "text": "Hello.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "start_time": "00:00:01",
+      "end_time": "00:00:02",
+      "text": "Hello, my name is Steven.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 2.0,
+      "end": 14.56,
+      "start_time": "00:00:02",
+      "end_time": "00:00:14",
+      "text": "I'm calling you from the Finance Department of the online company.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 14.56,
+      "end": 18.8,
+      "start_time": "00:00:14",
+      "end_time": "00:00:18",
+      "text": "You were speaking with Michael before and your manager is Mr. Omar, correct?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 18.8,
+      "end": 19.8,
+      "start_time": "00:00:18",
+      "end_time": "00:00:19",
+      "text": "Okay.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 19.8,
+      "end": 20.8,
+      "start_time": "00:00:19",
+      "end_time": "00:00:20",
+      "text": "All right.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 20.8,
+      "end": 26.240000000000002,
+      "start_time": "00:00:20",
+      "end_time": "00:00:26",
+      "text": "So yeah, I was calling you to help you because we were trying to find a solution and a way",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 26.24,
+      "end": 31.88,
+      "start_time": "00:00:26",
+      "end_time": "00:00:31",
+      "text": "to make very quick and easy withdrawal of your money on the platform back to your bank.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 31.88,
+      "end": 36.08,
+      "start_time": "00:00:31",
+      "end_time": "00:00:36",
+      "text": "So I think we finally found an option and that's why I'm calling you to help you with",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 36.08,
+      "end": 37.08,
+      "start_time": "00:00:36",
+      "end_time": "00:00:37",
+      "text": "that.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 37.08,
+      "end": 40.12,
+      "start_time": "00:00:37",
+      "end_time": "00:00:40",
+      "text": "So it will just take another five to ten minutes for the crime.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 40.12,
+      "end": 43.959999999999994,
+      "start_time": "00:00:40",
+      "end_time": "00:00:43",
+      "text": "If you're available, I would like to guide you through the steps and see if you can work",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 43.959999999999994,
+      "end": 44.959999999999994,
+      "start_time": "00:00:43",
+      "end_time": "00:00:44",
+      "text": "out together.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 44.959999999999994,
+      "end": 51.36,
+      "start_time": "00:00:44",
+      "end_time": "00:00:51",
+      "text": "So are you available for me to help you with that?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 51.36,
+      "end": 52.36,
+      "start_time": "00:00:51",
+      "end_time": "00:00:52",
+      "text": "Yes.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 52.36,
+      "end": 53.36,
+      "start_time": "00:00:52",
+      "end_time": "00:00:53",
+      "text": "Okay.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 53.36,
+      "end": 54.36,
+      "start_time": "00:00:53",
+      "end_time": "00:00:54",
+      "text": "Wonderful.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 54.36,
+      "end": 61.36,
+      "start_time": "00:00:54",
+      "end_time": "00:01:01",
+      "text": "Now I will ask you please open any desk and give me the any desk on your computer.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 61.36,
+      "end": 64.36,
+      "start_time": "00:01:01",
+      "end_time": "00:01:04",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 64.36,
+      "end": 70.36,
+      "start_time": "00:01:04",
+      "end_time": "00:01:10",
+      "text": "And the numbers?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 70.36,
+      "end": 76.36,
+      "start_time": "00:01:10",
+      "end_time": "00:01:16",
+      "text": "One, five, five.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 76.36,
+      "end": 77.36,
+      "start_time": "00:01:16",
+      "end_time": "00:01:17",
+      "text": "Okay.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 77.36,
+      "end": 78.36,
+      "start_time": "00:01:17",
+      "end_time": "00:01:18",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 78.36,
+      "end": 87.36,
+      "start_time": "00:01:18",
+      "end_time": "00:01:27",
+      "text": "I will help you over here, okay?",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 87.36,
+      "end": 88.36,
+      "start_time": "00:01:27",
+      "end_time": "00:01:28",
+      "text": "Okay.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 88.36,
+      "end": 93.36,
+      "start_time": "00:01:28",
+      "end_time": "00:01:33",
+      "text": "I guess, of course you.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 93.36,
+      "end": 113.36,
+      "start_time": "00:01:33",
+      "end_time": "00:01:53",
+      "text": "Okay.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 113.36,
+      "end": 119.36,
+      "start_time": "00:01:53",
+      "end_time": "00:01:59",
+      "text": "Now the name of the app is like this.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 119.36,
+      "end": 122.36,
+      "start_time": "00:01:59",
+      "end_time": "00:02:02",
+      "text": "It's a very colorful website.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 122.36,
+      "end": 125.36,
+      "start_time": "00:02:02",
+      "end_time": "00:02:05",
+      "text": "So we will try to verify you.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 125.36,
+      "end": 127.36,
+      "start_time": "00:02:05",
+      "end_time": "00:02:07",
+      "text": "I'm not sure if the phone is required.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 127.36,
+      "end": 128.36,
+      "start_time": "00:02:07",
+      "end_time": "00:02:08",
+      "text": "We will try to do it on the computer.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 128.36,
+      "end": 130.36,
+      "start_time": "00:02:08",
+      "end_time": "00:02:10",
+      "text": "It's probably we'll do it on the phone.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 130.36,
+      "end": 131.36,
+      "start_time": "00:02:10",
+      "end_time": "00:02:11",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 131.36,
+      "end": 132.36,
+      "start_time": "00:02:11",
+      "end_time": "00:02:12",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 132.36,
+      "end": 133.36,
+      "start_time": "00:02:12",
+      "end_time": "00:02:13",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 133.36,
+      "end": 134.36,
+      "start_time": "00:02:13",
+      "end_time": "00:02:14",
+      "text": "Let me let me do it for you.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 134.36,
+      "end": 135.36,
+      "start_time": "00:02:14",
+      "end_time": "00:02:15",
+      "text": "Let me use your mouse.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 135.36,
+      "end": 153.36,
+      "start_time": "00:02:15",
+      "end_time": "00:02:33",
+      "text": "Yeah, we can do it only on the phone.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 153.36,
+      "end": 157.36,
+      "start_time": "00:02:33",
+      "end_time": "00:02:37",
+      "text": "Which phone are you using?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 157.36,
+      "end": 158.36,
+      "start_time": "00:02:37",
+      "end_time": "00:02:38",
+      "text": "Pixel.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 158.36,
+      "end": 159.36,
+      "start_time": "00:02:38",
+      "end_time": "00:02:39",
+      "text": "Pixel.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 159.36,
+      "end": 161.36,
+      "start_time": "00:02:39",
+      "end_time": "00:02:41",
+      "text": "It's a Google Pixel.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 161.36,
+      "end": 162.36,
+      "start_time": "00:02:41",
+      "end_time": "00:02:42",
+      "text": "Yeah.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 162.36,
+      "end": 163.36,
+      "start_time": "00:02:42",
+      "end_time": "00:02:43",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 163.36,
+      "end": 164.36,
+      "start_time": "00:02:43",
+      "end_time": "00:02:44",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 193.36,
+      "end": 196.36,
+      "start_time": "00:03:13",
+      "end_time": "00:03:16",
+      "text": "Maryam, let me ask you.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 196.36,
+      "end": 199.36,
+      "start_time": "00:03:16",
+      "end_time": "00:03:19",
+      "text": "Your phone, the one you said you are using Pixel phone.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 199.36,
+      "end": 200.36,
+      "start_time": "00:03:19",
+      "end_time": "00:03:20",
+      "text": "Is it an Android?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 200.36,
+      "end": 202.36,
+      "start_time": "00:03:20",
+      "end_time": "00:03:22",
+      "text": "Yes, it's an Android.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 202.36,
+      "end": 203.36,
+      "start_time": "00:03:22",
+      "end_time": "00:03:23",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 203.36,
+      "end": 205.36,
+      "start_time": "00:03:23",
+      "end_time": "00:03:25",
+      "text": "Let me let's test if we can do something.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 205.36,
+      "end": 212.36,
+      "start_time": "00:03:25",
+      "end_time": "00:03:32",
+      "text": "Can you download any desk on your phone?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 212.36,
+      "end": 217.36,
+      "start_time": "00:03:32",
+      "end_time": "00:03:37",
+      "text": "Try to download any desk on your phone and we will try to do it together on your phone.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 217.36,
+      "end": 218.36,
+      "start_time": "00:03:37",
+      "end_time": "00:03:38",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 218.36,
+      "end": 219.36,
+      "start_time": "00:03:38",
+      "end_time": "00:03:39",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 219.36,
+      "end": 228.36,
+      "start_time": "00:03:39",
+      "end_time": "00:03:48",
+      "text": "Let's try to download any desk on your phone.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 228.36,
+      "end": 239.36,
+      "start_time": "00:03:48",
+      "end_time": "00:03:59",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 239.36,
+      "end": 249.36,
+      "start_time": "00:03:59",
+      "end_time": "00:04:09",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 249.36,
+      "end": 259.36,
+      "start_time": "00:04:09",
+      "end_time": "00:04:19",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 259.36,
+      "end": 270.36,
+      "start_time": "00:04:19",
+      "end_time": "00:04:30",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 270.36,
+      "end": 279.36,
+      "start_time": "00:04:30",
+      "end_time": "00:04:39",
+      "text": "And when you open it, send me the numbers, please, on your phone.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 280.36,
+      "end": 291.36,
+      "start_time": "00:04:40",
+      "end_time": "00:04:51",
+      "text": "One, redo my 185759.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 291.36,
+      "end": 301.26,
+      "start_time": "00:04:51",
+      "end_time": "00:05:01",
+      "text": "If you see a checkbox please accept them, put a check in the boxes and then click on accept.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 301.26,
+      "end": 307.76,
+      "start_time": "00:05:01",
+      "end_time": "00:05:07",
+      "text": "On the bottom left you should see like small boxes that you can put a checkmark there.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 307.76,
+      "end": 308.88,
+      "start_time": "00:05:07",
+      "end_time": "00:05:08",
+      "text": "And then click on start now.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 308.88,
+      "end": 321.88,
+      "start_time": "00:05:08",
+      "end_time": "00:05:21",
+      "text": "You should click on start now.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 321.88,
+      "end": 326.88,
+      "start_time": "00:05:21",
+      "end_time": "00:05:26",
+      "text": "Okay.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 326.88,
+      "end": 330.88,
+      "start_time": "00:05:26",
+      "end_time": "00:05:30",
+      "text": "And what do you see on the phone?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 330.88,
+      "end": 340.88,
+      "start_time": "00:05:30",
+      "end_time": "00:05:40",
+      "text": "This is the support.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 340.88,
+      "end": 345.88,
+      "start_time": "00:05:40",
+      "end_time": "00:05:45",
+      "text": "Okay there.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 345.88,
+      "end": 346.88,
+      "start_time": "00:05:45",
+      "end_time": "00:05:46",
+      "text": "Help us improve.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 346.88,
+      "end": 348.88,
+      "start_time": "00:05:46",
+      "end_time": "00:05:48",
+      "text": "This is support.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 348.88,
+      "end": 349.88,
+      "start_time": "00:05:48",
+      "end_time": "00:05:49",
+      "text": "Hey there.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 349.88,
+      "end": 350.88,
+      "start_time": "00:05:49",
+      "end_time": "00:05:50",
+      "text": "Like all you like guys.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 350.88,
+      "end": 352.88,
+      "start_time": "00:05:50",
+      "end_time": "00:05:52",
+      "text": "Say it again please.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 352.88,
+      "end": 355.88,
+      "start_time": "00:05:52",
+      "end_time": "00:05:55",
+      "text": "Support to my phone.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 355.88,
+      "end": 357.88,
+      "start_time": "00:05:55",
+      "end_time": "00:05:57",
+      "text": "Now you.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 357.88,
+      "end": 359.88,
+      "start_time": "00:05:57",
+      "end_time": "00:05:59",
+      "text": "Yeah it's me but it's not showing me connected.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 359.88,
+      "end": 366.88,
+      "start_time": "00:05:59",
+      "end_time": "00:06:06",
+      "text": "Do you see icon it says choose what to share.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 366.88,
+      "end": 372.88,
+      "start_time": "00:06:06",
+      "end_time": "00:06:12",
+      "text": "Okay you choose what to share okay.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 372.88,
+      "end": 377.88,
+      "start_time": "00:06:12",
+      "end_time": "00:06:17",
+      "text": "Okay I see alright.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 377.88,
+      "end": 382.88,
+      "start_time": "00:06:17",
+      "end_time": "00:06:22",
+      "text": "Because of yeah you have the pixel one we cannot we cannot share the pixel phone.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 382.88,
+      "end": 388.88,
+      "start_time": "00:06:22",
+      "end_time": "00:06:28",
+      "text": "Do you have any other phone or only this one?",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 388.88,
+      "end": 390.88,
+      "start_time": "00:06:28",
+      "end_time": "00:06:30",
+      "text": "We have Samsung.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 390.88,
+      "end": 392.88,
+      "start_time": "00:06:30",
+      "end_time": "00:06:32",
+      "text": "Oh that would be wonderful.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 392.88,
+      "end": 396.88,
+      "start_time": "00:06:32",
+      "end_time": "00:06:36",
+      "text": "Can you download any desk on your Samsung phone because pixels are allowing it.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 396.88,
+      "end": 398.88,
+      "start_time": "00:06:36",
+      "end_time": "00:06:38",
+      "text": "Only Samsung and Motorola.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 398.88,
+      "end": 400.88,
+      "start_time": "00:06:38",
+      "end_time": "00:06:40",
+      "text": "Can you take my phone please?",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 400.88,
+      "end": 401.88,
+      "start_time": "00:06:40",
+      "end_time": "00:06:41",
+      "text": "Sorry?",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 401.88,
+      "end": 407.88,
+      "start_time": "00:06:41",
+      "end_time": "00:06:47",
+      "text": "I will take my phone to my daughter because she is using it.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 407.88,
+      "end": 410.88,
+      "start_time": "00:06:47",
+      "end_time": "00:06:50",
+      "text": "That would be fun for her.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 410.88,
+      "end": 415.88,
+      "start_time": "00:06:50",
+      "end_time": "00:06:55",
+      "text": "I will borrow your phone for her okay.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 415.88,
+      "end": 418.88,
+      "start_time": "00:06:55",
+      "end_time": "00:06:58",
+      "text": "You work with other people.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 418.88,
+      "end": 419.88,
+      "start_time": "00:06:58",
+      "end_time": "00:06:59",
+      "text": "Sorry?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 419.88,
+      "end": 422.88,
+      "start_time": "00:06:59",
+      "end_time": "00:07:02",
+      "text": "Yeah he just talked to my daughter.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 422.88,
+      "end": 425.88,
+      "start_time": "00:07:02",
+      "end_time": "00:07:05",
+      "text": "Okay hello.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 425.88,
+      "end": 431.88,
+      "start_time": "00:07:05",
+      "end_time": "00:07:11",
+      "text": "Yeah I have to download the.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 431.88,
+      "end": 438.88,
+      "start_time": "00:07:11",
+      "end_time": "00:07:18",
+      "text": "Oh you're back here.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 461.88,
+      "end": 469.88,
+      "start_time": "00:07:41",
+      "end_time": "00:07:49",
+      "text": "I have it downloaded already.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 469.88,
+      "end": 471.88,
+      "start_time": "00:07:49",
+      "end_time": "00:07:51",
+      "text": "Any desk on the Samsung phone right.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 471.88,
+      "end": 476.88,
+      "start_time": "00:07:51",
+      "end_time": "00:07:56",
+      "text": "Now I want you to open it please.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 476.88,
+      "end": 478.88,
+      "start_time": "00:07:56",
+      "end_time": "00:07:58",
+      "text": "And give me the number.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 478.88,
+      "end": 488.88,
+      "start_time": "00:07:58",
+      "end_time": "00:08:08",
+      "text": "1037 498 400.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 488.88,
+      "end": 490.88,
+      "start_time": "00:08:08",
+      "end_time": "00:08:10",
+      "text": "Okay you're gonna see a pop up.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 490.88,
+      "end": 493.88,
+      "start_time": "00:08:10",
+      "end_time": "00:08:13",
+      "text": "You need the same way just accept the boxes.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 493.88,
+      "end": 504.88,
+      "start_time": "00:08:13",
+      "end_time": "00:08:24",
+      "text": "And then click on accept and start now.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 504.88,
+      "end": 509.88,
+      "start_time": "00:08:24",
+      "end_time": "00:08:29",
+      "text": "Start now.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 509.88,
+      "end": 528.88,
+      "start_time": "00:08:29",
+      "end_time": "00:08:48",
+      "text": "One moment.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 528.88,
+      "end": 530.88,
+      "start_time": "00:08:48",
+      "end_time": "00:08:50",
+      "text": "You.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 530.88,
+      "end": 532.88,
+      "start_time": "00:08:50",
+      "end_time": "00:08:52",
+      "text": "What?",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 532.88,
+      "end": 534.88,
+      "start_time": "00:08:52",
+      "end_time": "00:08:54",
+      "text": "The piano.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 534.88,
+      "end": 538.88,
+      "start_time": "00:08:54",
+      "end_time": "00:08:58",
+      "text": "This is the end of the session table.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 538.88,
+      "end": 544.88,
+      "start_time": "00:08:58",
+      "end_time": "00:09:04",
+      "text": "Okay now click on this blue circle in the middle this you see.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 544.88,
+      "end": 546.88,
+      "start_time": "00:09:04",
+      "end_time": "00:09:06",
+      "text": "One more time.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 546.88,
+      "end": 548.88,
+      "start_time": "00:09:06",
+      "end_time": "00:09:08",
+      "text": "One more time.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 548.88,
+      "end": 550.88,
+      "start_time": "00:09:08",
+      "end_time": "00:09:10",
+      "text": "And one more time.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 550.88,
+      "end": 551.88,
+      "start_time": "00:09:10",
+      "end_time": "00:09:11",
+      "text": "Click on okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 551.88,
+      "end": 558.88,
+      "start_time": "00:09:11",
+      "end_time": "00:09:18",
+      "text": "Now click on the top left corner the arrow that looks to the left.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 558.88,
+      "end": 561.88,
+      "start_time": "00:09:18",
+      "end_time": "00:09:21",
+      "text": "Now look in the middle to the right you have three dots three white dots.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 561.88,
+      "end": 563.88,
+      "start_time": "00:09:21",
+      "end_time": "00:09:23",
+      "text": "Can you click on them?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 563.88,
+      "end": 565.88,
+      "start_time": "00:09:23",
+      "end_time": "00:09:25",
+      "text": "Permission.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 565.88,
+      "end": 567.88,
+      "start_time": "00:09:25",
+      "end_time": "00:09:27",
+      "text": "Do they come from the disclaimer?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 567.88,
+      "end": 568.88,
+      "start_time": "00:09:27",
+      "end_time": "00:09:28",
+      "text": "Yes very good.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 568.88,
+      "end": 571.88,
+      "start_time": "00:09:28",
+      "end_time": "00:09:31",
+      "text": "Click on this possible scam so we can cover that.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 571.88,
+      "end": 576.88,
+      "start_time": "00:09:31",
+      "end_time": "00:09:36",
+      "text": "And click on full access in the middle it says full access.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 576.88,
+      "end": 578.88,
+      "start_time": "00:09:36",
+      "end_time": "00:09:38",
+      "text": "Okay very good.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 578.88,
+      "end": 580.88,
+      "start_time": "00:09:38",
+      "end_time": "00:09:40",
+      "text": "Now I'm gonna help you.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 580.88,
+      "end": 584.88,
+      "start_time": "00:09:40",
+      "end_time": "00:09:44",
+      "text": "So I will help you to download this cash application on your phone.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 584.88,
+      "end": 589.88,
+      "start_time": "00:09:44",
+      "end_time": "00:09:49",
+      "text": "And we will try to verify it on your phone okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 589.88,
+      "end": 602.88,
+      "start_time": "00:09:49",
+      "end_time": "00:10:02",
+      "text": "Okay I think we need to scan it from the computer.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 602.88,
+      "end": 604.88,
+      "start_time": "00:10:02",
+      "end_time": "00:10:04",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 604.88,
+      "end": 617.88,
+      "start_time": "00:10:04",
+      "end_time": "00:10:17",
+      "text": "Go to your computer I'm gonna open the camera right now.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 617.88,
+      "end": 623.88,
+      "start_time": "00:10:17",
+      "end_time": "00:10:23",
+      "text": "No no no from the computer yeah from the computer.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 623.88,
+      "end": 625.88,
+      "start_time": "00:10:23",
+      "end_time": "00:10:25",
+      "text": "Are you in front of your computer right now?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 625.88,
+      "end": 626.88,
+      "start_time": "00:10:25",
+      "end_time": "00:10:26",
+      "text": "Yeah.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 626.88,
+      "end": 632.88,
+      "start_time": "00:10:26",
+      "end_time": "00:10:32",
+      "text": "Okay now put the camera in front of the computer please.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 632.88,
+      "end": 633.88,
+      "start_time": "00:10:32",
+      "end_time": "00:10:33",
+      "text": "Okay let me switch.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 633.88,
+      "end": 635.88,
+      "start_time": "00:10:33",
+      "end_time": "00:10:35",
+      "text": "Okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 635.88,
+      "end": 646.88,
+      "start_time": "00:10:35",
+      "end_time": "00:10:46",
+      "text": "And let me open the QR okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 646.88,
+      "end": 648.88,
+      "start_time": "00:10:46",
+      "end_time": "00:10:48",
+      "text": "Not available in your conference.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 648.88,
+      "end": 651.88,
+      "start_time": "00:10:48",
+      "end_time": "00:10:51",
+      "text": "Wow are you in Canada right now?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 651.88,
+      "end": 652.88,
+      "start_time": "00:10:51",
+      "end_time": "00:10:52",
+      "text": "No.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 652.88,
+      "end": 654.88,
+      "start_time": "00:10:52",
+      "end_time": "00:10:54",
+      "text": "Why wouldn't it be available?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 654.88,
+      "end": 659.88,
+      "start_time": "00:10:54",
+      "end_time": "00:10:59",
+      "text": "Maybe before it's I don't know.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 659.88,
+      "end": 665.88,
+      "start_time": "00:10:59",
+      "end_time": "00:11:05",
+      "text": "Yeah even if I download it or sum up it's like this.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 665.88,
+      "end": 670.88,
+      "start_time": "00:11:05",
+      "end_time": "00:11:10",
+      "text": "Wow is it like you have a VPN or something?",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 670.88,
+      "end": 672.88,
+      "start_time": "00:11:10",
+      "end_time": "00:11:12",
+      "text": "Yeah.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 672.88,
+      "end": 677.88,
+      "start_time": "00:11:12",
+      "end_time": "00:11:17",
+      "text": "Babe I don't know like in the store.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 677.88,
+      "end": 680.88,
+      "start_time": "00:11:17",
+      "end_time": "00:11:20",
+      "text": "Okay all right no problem no problem then let's do like this.",
+      "speaker": "Speaker 2"
+    },
+    {
+      "start": 680.88,
+      "end": 682.88,
+      "start_time": "00:11:20",
+      "end_time": "00:11:22",
+      "text": "Let me click it and I'll get back to you okay.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 682.88,
+      "end": 684.88,
+      "start_time": "00:11:22",
+      "end_time": "00:11:24",
+      "text": "Let me double check it on my side.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 684.88,
+      "end": 687.88,
+      "start_time": "00:11:24",
+      "end_time": "00:11:27",
+      "text": "All right thank you thank you so much right now.",
+      "speaker": "Speaker 1"
+    },
+    {
+      "start": 687.88,
+      "end": 689.88,
+      "start_time": "00:11:27",
+      "end_time": "00:11:29",
+      "text": "Bye.",
+      "speaker": "Speaker 1"
+    }
+  ]
+}

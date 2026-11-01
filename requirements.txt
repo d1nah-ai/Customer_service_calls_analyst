@@ -1,0 +1,8 @@
+librosa
+numpy
+soundfile
+torch
+openai-whisper
+scipy
+scikit-learn
+transformers
